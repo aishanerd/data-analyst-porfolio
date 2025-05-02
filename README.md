@@ -8,7 +8,7 @@ In my free time, I enjoy reading and exploring new data analysis tools and techn
 <p>Below is a description of some projects that I have undertaken independly</p>
 <h3>Excel</h3>
 <strong>Analysis of patient preferences for vaccine administration routes</strong>
-<p><a href="#">Click Here to View Dashboard of Analysis</a></p>
+<p><a href="https://github.com/aishanerd/data-analyst-porfolio/blob/main/Vaccine%20Report_Aisha%20Bakare_Created%20with%20Excel.pdf">Click Here to View Dashboard of Analysis</a></p>
 <Strong>Brief</Strong><br></br>
 <p><Strong>Technology: </Strong>Microsoft Office Excel</p>
 <p><Strong>Results:</Strong> The analysis showed a total of 36,738 vaccinations administered between January 1 and March 31, 2024. 
