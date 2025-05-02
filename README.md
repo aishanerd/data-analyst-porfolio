@@ -9,7 +9,7 @@ In my free time, I enjoy reading and exploring new data analysis tools and techn
 <h3>Excel</h3>
 <strong>Analysis of patient preferences for vaccine administration routes</strong>
 <p><a href="https://github.com/aishanerd/data-analyst-porfolio/blob/main/Vaccine%20Report_Aisha%20Bakare_Created%20with%20Excel.pdf">Click Here to View Dashboard of Analysis</a></p>
-<Strong>Brief</Strong><br></br>
+<p><Strong>Objective: </Strong>To evaluate the distribution of administered vaccines to optimize future vaccination strategies and resource allocation</p>
 <p><Strong>Technology: </Strong>Microsoft Office Excel</p>
 <p><Strong>Results:</Strong> The analysis showed a total of 36,738 vaccinations administered between January 1 and March 31, 2024. 
 The COVID-19 vaccines (both Moderna and Pfizer-BioNTech) accounted for the majority of vaccinations, comprising 39% and 26% respectively. Other vaccines included Pneumococcal (PREVNAR20), RSV (AREXVY), and Zoster (Shingrix), with lower percentages of total vaccinations.
