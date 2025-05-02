@@ -20,8 +20,8 @@ From the results, the majority of vaccinations were administered via intramuscul
 
 <h3>PowerBi & Tableau</h3>
 <strong>Patients Care Analysis & Report</strong>
-<p><a href="#">Click Here to View Dashboard of Analysis</a></p>
-<p><Strong>Objective:</Strong>This analysis aimed to provide insights into the monthly patient flow and financial aspects of care delivery for Rosemarie Hospital.</p>
+<p><a href="https://github.com/aishanerd/data-analyst-porfolio/blob/main/Monthly%20Patient%20Care%20Report.pdf">Click Here to View Dashboard of Analysis</a></p>
+<p><Strong>Objective: </Strong>This analysis aimed to provide insights into the monthly patient flow and financial aspects of care delivery for Rosemarie Hospital.</p>
 <p><Strong>Technology: </Strong>Excel, Power BI</p>
 <p><Strong>Results:</Strong> The analysis showed that Outpatient services were the most utilized (50.4%), followed by inpatient (24.9%) and emergency (24.7%). This could indicate a successful strategy in preventative care or management of patient conditions, potentially leading to lower rates of inpatient admissions over time. However, it also necessitates adequate outpatient facilities and staffing. The significant emergency service volume suggests a need for efficient emergency department operations and resource allocation.
 Physician referrals (33.62%), self-referrals (33.16%), and emergency visits (33.22%) were relatively balanced as sources of patient admission. The high self-referral rate might suggest strong community awareness and trust in Rosemarie Hospital. The significant number of patients originating from the emergency department highlights its critical role as an entry point to the hospital.
