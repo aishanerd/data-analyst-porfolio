@@ -8,8 +8,9 @@ In my free time, I enjoy reading and exploring new data analysis tools and techn
 <p>Below is a description of some projects that I have undertaken independly</p>
 <h3>Excel</h3>
 <strong>Analysis of patient preferences for vaccine administration routes</strong>
+<p><a href="#">Click Here to View Dashboard of Analysis</a></p>
 <Strong>Brief</Strong><br></br>
-<Strong>Technology</Strong><br></br>
+<p><Strong>Technology: </Strong>Microsoft Office Excel</p>
 <p><Strong>Results:</Strong> The analysis showed a total of 36,738 vaccinations administered between January 1 and March 31, 2024. 
 The COVID-19 vaccines (both Moderna and Pfizer-BioNTech) accounted for the majority of vaccinations, comprising 39% and 26% respectively. Other vaccines included Pneumococcal (PREVNAR20), RSV (AREXVY), and Zoster (Shingrix), with lower percentages of total vaccinations.
 From the results, the majority of vaccinations were administered via intramuscular (IM) injection, followed by subcutaneous (SC) and other routes. This indicates a preference for IM as the primary method for delivering vaccines, likely due to its effectiveness and common practice. The data suggests that vaccination strategies should continue to focus on IM routes for optimal coverage.
